@@ -9,8 +9,7 @@ under my studio, Quietspire LLC.
 I took it from an empty project to a live listing: Apple Developer enrollment,
 App Store Connect, review, and post-launch updates, plus the in-app purchase
 and ad setup.
-→ https://apps.apple.com/us/app/slab-zen-stack/id6790939204
-Slab - Zen Stack 
+→ [Slab - Zen Stack on the App Store](https://apps.apple.com/us/app/slab-zen-stack/id6790939204)
 
 **Hapax** — a vocabulary app for iOS and Android where the learning happens
 on home and lock screen widgets, so you get a new word each day without
