@@ -29,5 +29,3 @@ through the architecture and the decisions behind it.
 
 Summer 2026: Data/AI engineer intern at AION Labs in Rehovot, Israel, building
 the commercial intelligence module for a stealth startup in their portfolio.
-
-ofer.goldberg.adar@gmail.com
