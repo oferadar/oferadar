@@ -14,7 +14,9 @@ and ad setup.
 **Hapax** — a vocabulary app for iOS and Android where the learning happens
 on home and lock screen widgets, so you get a new word each day without
 opening the app. Runs fully offline with no accounts and no data collected.
-React Native, Expo, TypeScript, SwiftUI. Nearing release.
+React Native, Expo, TypeScript, SwiftUI. Live on App store and Google Play store.
+https://apps.apple.com/us/app/hapax-word-of-the-day-widget/id6799694673
+https://play.google.com/store/apps/details?id=com.oferadar.hapax
 
 **COMET** — a one-touch arcade game where you orbit a planet and sling to the
 next one. Unity and C#. In development.
